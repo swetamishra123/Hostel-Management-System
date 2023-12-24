@@ -7,6 +7,9 @@
 
 The Hostel Management System is a web-based application designed to streamline and manage hostel-related operations. This system provides functionality for administrators and students to perform tasks such as room allocation, course management, and student registration.
 
+## Demo 
+[Download the File](https://drive.google.com/file/d/1E66VrzLah9PCdl9gCRDOSZiWH4hRrMtP/view?usp=sharing)
+
 ## Features
 
 - **Admin Panel:** Allows administrators to manage courses, rooms, and student details.
